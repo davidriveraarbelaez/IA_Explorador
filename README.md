@@ -1,1 +1,1 @@
-# CursoIA_basico
+# Curso Inteligencia Artificial Explorador
