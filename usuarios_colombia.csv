@@ -1,0 +1,101 @@
+IDCliente,Nombre,Apellido,Ciudad,Departamento
+1,María,López,Bucaramanga,Santander
+2,María,Rodríguez,Barranquilla,Atlántico
+3,Lucía,Castro,Pereira,Risaralda
+4,Carlos,Sánchez,Risaralda,Caldas
+5,Ana,Gómez,Anserma,Caldas
+6,Valentina,Martínez,Herveo,Tolima
+7,Luis,Castro,Bogotá,Cundinamarca
+8,Valentina,García,Barranquilla,Atlántico
+9,Lucía,Martínez,Cartagena,Bolívar
+10,Jorge,Torres,Armenia,Quindío
+11,Miguel,Pérez,Galapa,Atlántico
+12,Lucía,Ramírez,Girón,Santander
+13,María,López,Soledad,Atlántico
+14,Carlos,García,Espinal,Tolima
+15,Luis,Castro,Ibagué,Tolima
+16,María,Martínez,Pereira,Risaralda
+17,Miguel,Ramírez,Fredonia,Antioquia
+18,Luis,Sánchez,Gramalote,Norte de Santander
+19,Carlos,López,Guamo,Tolima
+20,Carlos,Gómez,Honda,Tolima
+21,Pedro,Martínez,Abejorral,Antioquia
+22,Ana,Sánchez,Anapoima,Cundinamarca
+23,Lucía,López,Zapatoca,Santander
+24,Lucía,Ramírez,Calamar,Bolívar
+25,Miguel,Ramírez,Ibagué,Tolima
+26,Luis,Ramírez,Manizales,Caldas
+27,María,Martínez,Convención,Norte de Santander
+28,Luis,Sánchez,Pereira,Risaralda
+29,María,Pérez,Cartagena,Bolívar
+30,María,Pérez,Cartagena,Bolívar
+31,Jorge,Rodríguez,Gramalote,Norte de Santander
+32,Valentina,Castro,Santuario,Risaralda
+33,Jorge,Pérez,Belén de Umbría,Risaralda
+34,Lucía,Rodríguez,Pensilvania,Caldas
+35,Pedro,Castro,Cartagena,Bolívar
+36,Sofía,Castro,Bucaramanga,Santander
+37,Lucía,Castro,Cartagena,Bolívar
+38,Luis,García,Labateca,Norte de Santander
+39,Luis,Sánchez,Ibagué,Tolima
+40,Valentina,López,Lenguazaque,Cundinamarca
+41,Jorge,Torres,Manizales,Caldas
+42,María,Rodríguez,Luruaco,Atlántico
+43,Miguel,Torres,Medellín,Antioquia
+44,María,Pérez,Mariquita,Tolima
+45,María,Gómez,Pauna,Boyacá
+46,Lucía,Rodríguez,Paya,Boyacá
+47,Carlos,Pérez,Manizales,Caldas
+48,Pedro,Sánchez,Cartagena,Bolívar
+49,Lucía,Sánchez,Medellín,Antioquia
+50,Valentina,Rodríguez,Cúcuta,Norte de Santander
+51,Jorge,Sánchez,Cali,Risaralda
+52,Valentina,Sánchez,Peque,Antioquia
+53,Sofía,García,Piojó,Atlántico
+54,Valentina,Martínez,Restrepo,Meta
+55,Carlos,Rodríguez,Ragonvalia,Norte de Santander
+56,Carlos,Sánchez,Pereira,Risaralda
+57,Carlos,Sánchez,Pereira,Risaralda
+58,Jorge,Rodríguez,Cali,Valle del Cauca
+59,Jorge,Rodríguez,Bogotá,Cundinamarca
+60,Luis,Torres,Ibagué,Tolima
+61,Pedro,Gómez,Ibagué,Tolima
+62,Luis,Pérez,Barranquilla,Atlántico
+63,Carlos,Sánchez,Cúcuta,Norte de Santander
+64,Valentina,Rodríguez,Palmira,Valle del Cauca
+65,Pedro,Rodríguez,Barrancominas,Guianía
+66,Miguel,Martínez,Chicoral,Tolima
+67,Lucía,Martínez,Pereira,Risaralda
+68,Ana,Torres,Bogotá,Cundinamarca
+69,Miguel,Sánchez,Risaralda,Caldas
+70,Miguel,Ramírez,Bucaramanga,Santander
+71,Carlos,García,Barranquilla,Atlántico
+72,Pedro,Torres,Pamplona,Norte de Santander
+73,Sofía,Pérez,Manizales,Caldas
+74,Valentina,Rodríguez,Cali,Valle del Cauca
+75,Lucía,Castro,Ibagué,Tolima
+76,María,Gómez,Cartagena,Bolívar
+77,Miguel,Martínez,Medellín,Antioquia
+78,Carlos,López,Ibagué,Tolima
+79,María,Rodríguez,Medellín,Antioquia
+80,Jorge,Sánchez,Santa Marta,Magdalena
+81,Luis,García,Cúcuta,Norte de Santander
+82,Jorge,Ramírez,Manizales,Caldas
+83,Ana,Torres,Cúcuta,Norte de Santander
+84,Miguel,Torres,Bogotá,Cundinamarca
+85,Valentina,Torres,Medellín,Antioquia
+86,Valentina,Sánchez,Ibagué,Tolima
+87,María,Castro,Medellín,Antioquia
+88,Sofía,Pérez,Medellín,Antioquia
+89,Valentina,García,Medellín,Antioquia
+90,Lucía,Gómez,Manizales,Caldas
+91,Sofía,Pérez,Barranquilla,Atlántico
+92,Pedro,Ramírez,Bucaramanga,Santander
+93,Pedro,Sánchez,Cali,Valle del Cauca
+94,María,Castro,Villavicencio,Meta
+95,Lucía,Sánchez,Cali,Valle del Cauca
+96,Ana,López,Apia,Risaralda
+97,Valentina,Ramírez,Cúcuta,Norte de Santander
+98,Sofía,Castro,Envigado,Antioquia
+99,Miguel,Martínez,Manizales,Caldas
+100,Miguel,Castro,Pereira,Risaralda

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: learntools
+Version: 0.0.20
+Summary: Reinforcement Learning with Numpy
+Author: William Dennis
+Author-email: wwdennis.home@gmail.com
+Keywords: python,neural network,learning
+License-File: LICENSE
+Requires-Dist: learntools
+Requires-Dist: numpy
+
+Reinforcement Learning with Numpy
