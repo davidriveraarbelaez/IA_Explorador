@@ -1,4 +1,4 @@
-**Taller: Predicción de Éxito en el Cine con Técnicas de Regresión**
+**Taller: Predicción de exito de películas en el cine con Técnicas de Regresión**
 
 Objetivo:
 En este taller, exploraremos cómo construir modelos de regresión para predecir el rendimiento de una película en taquilla y su aceptación en IMDb. El 80% del tiempo estará dedicado a la regresión lineal, enfocándonos en la predicción de ingresos brutos, mientras que en el 20% restante aplicaremos regresión logística para clasificar películas como exitosas o no exitosas.
