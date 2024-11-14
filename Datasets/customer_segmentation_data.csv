@@ -1,0 +1,401 @@
+CustomerID,Age,Gender,MaritalStatus,Children,Income,EducationLevel,Location,PurchaseFrequency,AvgPurchaseAmount,LastPurchaseDate,TotalPurchases,PreferredProductCategory,PreferredPurchaseChannel,DiscountUsed,PurchaseTimeOfDay,EmailResponse,SocialMediaInteraction,EmailOpenRate,NPS,LoyaltyProgram,Season,DeviceType,PreferredPaymentMethod
+1,56,Female,Married,2,40590.34,Master's,Rural,34,235.22,2023-10-19,85,Electronics,Online,Yes,Afternoon,6,12,0.3,8,No,Summer,Tablet,Transfer
+2,69,Female,Married,1,68774.77,Bachelor's,Suburban,20,124.51,2023-05-20,38,Home,In-store,No,Morning,13,35,0.27,7,No,Summer,Tablet,Transfer
+3,46,Male,Married,2,44495.4,Master's,Urban,11,183.18,2023-07-22,45,Fashion,Online,No,Evening,10,12,0.96,8,No,Summer,Tablet,Transfer
+4,32,Female,Single,0,57085.95,PhD,Rural,16,155.44,2023-01-25,97,Home,Online,No,Evening,8,11,0.29,3,No,Winter,Tablet,Cash
+5,60,Female,Divorced,0,52496.23,Bachelor's,Rural,31,174.8,2023-02-16,77,Fashion,In-store,No,Evening,12,36,0.33,2,Yes,Summer,Mobile,Transfer
+6,25,Female,Single,1,35360.3,PhD,Suburban,6,232.45,2022-11-29,17,Fashion,In-store,Yes,Afternoon,17,9,0.97,7,No,Spring,Desktop,Transfer
+7,38,Female,Divorced,3,49701.65,Master's,Urban,19,155.42,2022-11-10,74,Toys,Online,No,Morning,10,8,0.76,8,No,Summer,Mobile,Transfer
+8,56,Female,Single,3,55004.65,PhD,Urban,37,185.58,2023-06-16,10,Home,In-store,Yes,Evening,14,6,0.73,1,Yes,Summer,Tablet,Transfer
+9,36,Male,Divorced,1,49035.61,Bachelor's,Urban,4,162.26,2023-05-22,88,Toys,In-store,Yes,Afternoon,18,1,0.87,9,Yes,Summer,Tablet,Credit Card
+10,40,Female,Single,1,29859.4,High School,Suburban,47,308.3,2023-07-13,56,Fashion,Online,No,Afternoon,0,22,0.2,4,No,Fall,Desktop,Transfer
+11,28,Male,Married,0,75521.44,PhD,Urban,4,225.7,2023-07-22,7,Electronics,Online,Yes,Afternoon,3,38,0.74,4,No,Winter,Tablet,Transfer
+12,28,Female,Single,3,51315.49,PhD,Suburban,20,216.51,2023-10-15,85,Fashion,In-store,No,Evening,13,39,0.55,3,No,Summer,Mobile,Cash
+13,41,Male,Divorced,2,38085.46,Bachelor's,Suburban,10,251.26,2023-02-06,67,Toys,Online,Yes,Evening,13,38,0.85,6,No,Winter,Mobile,Credit Card
+14,53,Male,Single,0,74311.52,Bachelor's,Suburban,24,155.44,2023-05-03,53,Home,Online,No,Evening,2,20,0.56,1,Yes,Spring,Desktop,Cash
+15,57,Female,Single,1,59260.85,PhD,Rural,35,264.44,2023-10-08,80,Home,Online,Yes,Evening,16,22,0.66,6,Yes,Spring,Mobile,Transfer
+16,41,Female,Single,3,31997.45,Master's,Urban,26,225.96,2023-10-03,51,Toys,Online,Yes,Evening,2,28,0.53,2,No,Summer,Mobile,Cash
+17,20,Female,Married,2,34332.58,PhD,Urban,37,82.93,2023-05-14,59,Home,Online,No,Evening,15,13,0.53,9,No,Spring,Mobile,Cash
+18,39,Male,Single,2,46664.08,Bachelor's,Suburban,38,92.9,2023-03-18,68,Beauty,Online,No,Evening,13,25,0.79,2,No,Winter,Mobile,Transfer
+19,19,Female,Married,0,54459.6,High School,Suburban,21,157.08,2023-04-27,69,Electronics,Online,Yes,Evening,19,4,0.67,7,No,Fall,Tablet,Credit Card
+20,41,Male,Married,3,59342.0,High School,Urban,40,100.92,2022-11-20,85,Electronics,In-store,Yes,Evening,12,30,0.67,1,No,Summer,Mobile,Credit Card
+21,61,Male,Single,3,64252.68,Master's,Suburban,39,182.13,2023-03-16,71,Electronics,Online,No,Afternoon,14,24,0.51,7,Yes,Spring,Desktop,Cash
+22,47,Male,Single,1,58093.59,PhD,Urban,21,123.97,2022-12-15,94,Home,In-store,Yes,Evening,13,30,0.58,5,Yes,Winter,Desktop,Transfer
+23,55,Female,Single,3,70201.19,High School,Rural,10,192.67,2022-11-26,19,Home,In-store,No,Morning,18,49,0.77,8,Yes,Winter,Mobile,Cash
+24,19,Female,Divorced,3,51901.9,PhD,Suburban,38,305.88,2023-07-05,36,Fashion,In-store,Yes,Afternoon,5,19,0.84,4,No,Spring,Desktop,Cash
+25,38,Male,Single,0,38605.41,Bachelor's,Urban,46,196.3,2023-05-29,72,Fashion,Online,No,Evening,9,43,0.73,7,No,Winter,Mobile,Cash
+26,50,Male,Married,3,49949.74,High School,Suburban,4,177.28,2023-02-02,22,Electronics,Online,Yes,Morning,14,16,0.93,6,Yes,Winter,Desktop,Transfer
+27,29,Female,Single,2,48965.29,Master's,Urban,45,229.12,2023-05-10,87,Beauty,In-store,No,Evening,19,44,0.84,5,Yes,Summer,Desktop,Transfer
+28,39,Male,Divorced,0,11326.77,Bachelor's,Urban,20,147.77,2023-07-20,47,Fashion,Online,No,Morning,5,1,0.61,4,No,Winter,Mobile,Credit Card
+29,61,Female,Single,0,41579.5,Master's,Suburban,17,263.26,2023-08-01,39,Fashion,In-store,Yes,Morning,9,24,0.7,7,Yes,Spring,Mobile,Transfer
+30,42,Male,Divorced,1,54713.06,Bachelor's,Rural,7,237.14,2023-04-29,82,Home,Online,No,Morning,6,12,0.93,5,No,Summer,Tablet,Cash
+31,66,Female,Divorced,3,43636.77,High School,Urban,4,202.91,2023-01-22,62,Beauty,Online,Yes,Morning,16,38,0.66,5,No,Spring,Mobile,Cash
+32,44,Male,Single,1,40306.86,Master's,Urban,29,211.57,2023-05-04,37,Electronics,In-store,No,Afternoon,17,27,0.84,1,Yes,Fall,Mobile,Credit Card
+33,59,Female,Married,2,63670.64,Master's,Urban,14,353.13,2023-05-15,18,Fashion,In-store,No,Afternoon,16,41,0.72,2,Yes,Spring,Tablet,Transfer
+34,45,Male,Divorced,0,36251.81,Bachelor's,Rural,3,270.67,2023-04-28,38,Beauty,In-store,No,Morning,8,5,0.6,5,Yes,Spring,Mobile,Cash
+35,33,Female,Single,0,60674.34,Master's,Rural,24,364.96,2023-05-10,65,Beauty,Online,Yes,Evening,9,2,0.32,3,No,Summer,Mobile,Credit Card
+36,32,Female,Single,0,30008.83,Bachelor's,Suburban,37,239.9,2023-03-24,8,Electronics,In-store,No,Morning,9,34,0.48,2,No,Winter,Tablet,Credit Card
+37,64,Male,Married,2,91411.43,Bachelor's,Rural,16,89.62,2023-03-13,92,Beauty,Online,Yes,Afternoon,6,17,0.97,4,Yes,Spring,Mobile,Cash
+38,68,Male,Divorced,2,46764.72,Bachelor's,Suburban,4,180.34,2023-05-23,63,Beauty,Online,No,Evening,15,10,0.69,4,No,Summer,Mobile,Cash
+39,61,Female,Divorced,1,45151.02,Bachelor's,Suburban,24,72.48,2023-06-20,33,Beauty,Online,Yes,Afternoon,17,19,0.61,4,No,Fall,Tablet,Transfer
+40,69,Male,Single,1,67145.99,High School,Rural,34,239.62,2023-03-22,87,Fashion,In-store,Yes,Afternoon,5,4,0.94,4,No,Summer,Tablet,Credit Card
+41,20,Female,Single,1,43719.43,Bachelor's,Suburban,30,255.91,2023-06-01,10,Electronics,In-store,Yes,Evening,19,18,0.63,3,Yes,Summer,Desktop,Cash
+42,54,Male,Married,3,71823.92,PhD,Rural,18,133.56,2023-09-29,53,Beauty,In-store,No,Morning,0,21,0.57,7,No,Winter,Mobile,Credit Card
+43,68,Female,Married,0,55573.91,Master's,Suburban,19,150.83,2023-09-07,44,Beauty,Online,Yes,Morning,0,18,0.78,9,Yes,Spring,Desktop,Transfer
+44,24,Female,Divorced,0,48224.03,PhD,Rural,31,211.16,2023-10-25,87,Fashion,Online,No,Morning,11,46,0.74,5,Yes,Fall,Desktop,Cash
+45,38,Female,Divorced,1,46624.91,High School,Rural,19,110.14,2023-03-02,69,Electronics,In-store,Yes,Morning,1,15,0.27,4,No,Summer,Tablet,Transfer
+46,26,Female,Single,0,68113.88,PhD,Suburban,49,104.51,2022-12-23,73,Home,Online,Yes,Evening,3,23,0.52,2,Yes,Spring,Mobile,Credit Card
+47,56,Female,Divorced,1,53457.31,Master's,Urban,46,292.9,2023-06-28,31,Fashion,Online,Yes,Evening,16,40,0.53,2,No,Spring,Mobile,Transfer
+48,35,Female,Married,3,56484.63,PhD,Suburban,19,208.6,2023-10-20,84,Electronics,In-store,Yes,Evening,3,3,0.44,5,Yes,Summer,Tablet,Transfer
+49,21,Male,Married,3,58115.03,High School,Rural,22,158.14,2023-10-16,10,Beauty,In-store,No,Afternoon,10,14,0.57,7,Yes,Spring,Desktop,Credit Card
+50,42,Male,Single,2,51994.04,Bachelor's,Urban,24,73.09,2023-04-07,17,Electronics,In-store,Yes,Evening,3,24,0.47,9,No,Summer,Tablet,Transfer
+51,31,Male,Married,3,57798.08,PhD,Suburban,45,263.93,2023-09-19,68,Electronics,Online,Yes,Morning,0,43,0.28,7,Yes,Summer,Mobile,Credit Card
+52,67,Female,Married,1,48225.15,High School,Suburban,12,148.66,2023-06-19,66,Electronics,Online,No,Afternoon,6,34,0.47,5,Yes,Summer,Tablet,Cash
+53,26,Female,Married,3,49252.87,High School,Suburban,30,339.55,2023-03-18,23,Home,Online,Yes,Morning,17,13,0.17,6,Yes,Fall,Mobile,Credit Card
+54,43,Female,Married,2,33213.28,Master's,Urban,38,264.45,2023-07-13,80,Electronics,Online,Yes,Morning,8,48,0.62,3,No,Summer,Desktop,Credit Card
+55,19,Female,Single,0,54466.4,Master's,Rural,31,139.39,2022-12-29,84,Home,Online,Yes,Evening,2,18,0.87,5,No,Winter,Mobile,Cash
+56,37,Male,Single,1,24206.88,PhD,Suburban,36,146.34,2023-05-25,47,Beauty,In-store,Yes,Evening,7,37,0.75,8,Yes,Spring,Desktop,Credit Card
+57,45,Male,Divorced,0,54253.37,Bachelor's,Suburban,19,329.14,2022-12-05,78,Home,Online,No,Morning,18,35,0.42,1,Yes,Fall,Desktop,Cash
+58,64,Female,Married,2,45790.76,High School,Suburban,48,193.68,2023-02-10,93,Beauty,Online,No,Morning,3,6,0.18,1,Yes,Spring,Mobile,Cash
+59,24,Male,Divorced,2,55618.78,PhD,Suburban,45,161.5,2023-03-21,24,Beauty,Online,Yes,Afternoon,17,29,0.28,7,No,Fall,Mobile,Credit Card
+60,61,Male,Single,2,34267.57,High School,Suburban,36,202.08,2023-03-29,99,Home,In-store,No,Evening,19,18,0.59,5,No,Winter,Desktop,Transfer
+61,25,Female,Single,0,18209.64,High School,Rural,30,161.16,2023-09-17,72,Fashion,In-store,No,Afternoon,10,48,0.29,5,Yes,Fall,Tablet,Transfer
+62,64,Male,Single,0,44737.02,Bachelor's,Rural,49,218.08,2023-04-01,48,Toys,In-store,Yes,Afternoon,13,24,0.59,1,No,Fall,Mobile,Cash
+63,52,Female,Single,0,34311.31,Bachelor's,Suburban,33,194.31,2023-09-03,27,Electronics,Online,No,Afternoon,17,15,0.31,9,No,Fall,Desktop,Transfer
+64,31,Male,Single,0,23291.65,PhD,Urban,18,265.66,2023-06-22,6,Toys,In-store,Yes,Morning,15,46,0.86,1,No,Spring,Desktop,Transfer
+65,34,Female,Single,2,61519.75,Bachelor's,Rural,49,170.86,2023-07-20,26,Electronics,In-store,No,Afternoon,2,39,0.46,5,No,Summer,Tablet,Credit Card
+66,53,Female,Single,2,74018.57,Bachelor's,Urban,28,133.64,2023-04-20,61,Electronics,In-store,No,Afternoon,14,7,0.32,9,Yes,Spring,Mobile,Cash
+67,67,Female,Married,1,38045.73,PhD,Rural,47,173.83,2023-05-28,76,Beauty,Online,No,Morning,3,17,0.83,4,No,Summer,Desktop,Cash
+68,57,Female,Divorced,1,48863.44,Bachelor's,Suburban,11,173.37,2023-07-26,11,Electronics,In-store,Yes,Evening,4,27,0.41,8,No,Spring,Tablet,Credit Card
+69,21,Male,Single,0,45383.22,Master's,Rural,45,194.18,2023-03-20,82,Electronics,Online,No,Evening,16,15,0.2,6,Yes,Winter,Desktop,Transfer
+70,19,Female,Married,3,40116.52,High School,Suburban,33,247.59,2023-04-10,60,Home,Online,Yes,Afternoon,6,18,0.61,3,Yes,Winter,Mobile,Cash
+71,23,Female,Married,3,59956.06,High School,Rural,17,243.49,2023-08-14,71,Toys,In-store,Yes,Morning,15,41,0.62,4,No,Fall,Tablet,Transfer
+72,59,Female,Divorced,2,65152.12,High School,Suburban,6,289.97,2023-06-30,20,Home,Online,No,Evening,13,16,0.74,2,No,Winter,Desktop,Cash
+73,21,Male,Single,2,36970.89,High School,Suburban,4,139.14,2023-03-28,87,Electronics,In-store,Yes,Afternoon,15,44,0.32,1,Yes,Fall,Tablet,Cash
+74,46,Female,Divorced,2,50671.5,PhD,Suburban,20,229.15,2023-10-28,55,Beauty,Online,No,Afternoon,6,12,0.5,8,Yes,Summer,Mobile,Cash
+75,35,Male,Single,1,69268.0,High School,Suburban,48,254.55,2023-08-03,86,Home,In-store,Yes,Morning,8,6,0.35,1,Yes,Winter,Tablet,Cash
+76,43,Female,Married,1,60335.54,High School,Urban,47,149.43,2023-07-20,84,Home,In-store,Yes,Afternoon,3,26,0.17,1,No,Summer,Mobile,Transfer
+77,61,Male,Married,2,62565.46,High School,Suburban,27,184.43,2023-07-05,76,Fashion,In-store,No,Evening,10,9,0.89,4,No,Spring,Desktop,Transfer
+78,51,Male,Married,2,70519.78,High School,Urban,15,68.75,2023-06-21,16,Electronics,Online,No,Morning,1,33,0.76,6,Yes,Summer,Mobile,Transfer
+79,27,Female,Married,2,70322.68,Master's,Urban,6,268.01,2022-12-24,57,Beauty,In-store,No,Evening,11,35,0.37,9,No,Spring,Desktop,Transfer
+80,53,Male,Divorced,3,65429.64,High School,Suburban,47,183.84,2023-07-28,79,Home,Online,No,Evening,11,24,0.64,1,Yes,Summer,Desktop,Credit Card
+81,31,Female,Single,1,52174.06,Master's,Urban,14,260.49,2022-12-05,9,Home,In-store,Yes,Evening,3,5,0.28,7,No,Summer,Mobile,Cash
+82,48,Female,Single,3,44262.75,PhD,Rural,11,215.45,2023-06-11,31,Beauty,Online,Yes,Afternoon,17,23,0.9,5,Yes,Winter,Desktop,Cash
+83,65,Female,Divorced,3,51552.17,Bachelor's,Suburban,39,186.11,2023-01-17,16,Electronics,Online,Yes,Afternoon,6,17,0.2,8,Yes,Summer,Tablet,Cash
+84,32,Male,Single,2,41983.9,High School,Urban,9,80.54,2023-10-04,21,Fashion,In-store,No,Evening,0,22,0.1,7,No,Winter,Desktop,Credit Card
+85,25,Male,Married,2,20712.7,Bachelor's,Suburban,26,93.88,2023-01-27,10,Home,In-store,Yes,Evening,12,5,0.55,4,No,Winter,Mobile,Transfer
+86,31,Female,Single,0,45807.51,Bachelor's,Suburban,16,5.51,2023-03-13,9,Fashion,In-store,No,Morning,5,28,0.62,4,No,Fall,Tablet,Cash
+87,40,Female,Married,0,55362.89,PhD,Suburban,5,157.8,2023-10-15,61,Toys,In-store,Yes,Morning,5,24,0.62,6,No,Fall,Tablet,Transfer
+88,57,Male,Divorced,3,41190.96,Bachelor's,Urban,10,370.87,2023-09-03,32,Electronics,In-store,No,Afternoon,11,16,0.15,6,No,Spring,Desktop,Transfer
+89,38,Female,Single,1,47108.3,Master's,Rural,3,103.4,2023-08-03,82,Toys,Online,Yes,Afternoon,7,45,0.38,9,No,Summer,Desktop,Credit Card
+90,33,Female,Divorced,2,47689.45,Bachelor's,Rural,13,2.64,2023-04-16,73,Toys,In-store,Yes,Morning,18,23,0.55,5,Yes,Spring,Mobile,Credit Card
+91,62,Female,Single,2,70352.85,Bachelor's,Urban,43,272.2,2022-11-04,63,Toys,In-store,No,Evening,4,10,0.29,8,No,Summer,Tablet,Transfer
+92,35,Male,Married,3,44608.44,Bachelor's,Suburban,49,377.28,2023-10-06,37,Electronics,Online,Yes,Afternoon,17,25,0.89,5,Yes,Fall,Mobile,Cash
+93,64,Male,Divorced,0,70349.5,High School,Urban,30,222.34,2023-10-07,66,Electronics,In-store,No,Evening,4,33,0.18,2,Yes,Fall,Desktop,Cash
+94,41,Male,Single,1,9312.64,High School,Urban,45,221.65,2023-01-04,54,Beauty,In-store,Yes,Morning,9,27,0.54,6,No,Summer,Tablet,Credit Card
+95,43,Female,Married,0,70217.84,Master's,Urban,6,176.76,2022-11-27,23,Fashion,Online,Yes,Afternoon,0,2,0.72,9,Yes,Summer,Mobile,Credit Card
+96,42,Female,Divorced,0,69461.09,Master's,Suburban,17,65.43,2023-02-07,90,Fashion,In-store,No,Afternoon,9,10,0.34,3,Yes,Fall,Mobile,Credit Card
+97,62,Female,Divorced,0,63533.82,High School,Urban,45,91.2,2023-05-04,73,Beauty,In-store,No,Morning,4,37,0.66,1,No,Fall,Mobile,Credit Card
+98,58,Male,Single,0,19821.23,Master's,Suburban,19,176.24,2022-11-06,70,Beauty,In-store,Yes,Afternoon,11,13,0.85,1,No,Spring,Mobile,Credit Card
+99,46,Female,Single,2,65283.3,High School,Urban,42,161.87,2023-08-25,98,Toys,Online,Yes,Morning,6,25,0.27,3,No,Fall,Mobile,Credit Card
+100,32,Female,Single,2,49248.21,PhD,Rural,35,191.36,2022-11-15,51,Beauty,In-store,Yes,Afternoon,8,47,0.93,5,Yes,Summer,Tablet,Credit Card
+101,62,Female,Married,0,12059.94,Bachelor's,Urban,46,262.2,2022-12-15,43,Home,Online,Yes,Morning,11,20,0.6,3,No,Spring,Mobile,Cash
+102,18,Female,Single,1,69472.67,Bachelor's,Urban,26,156.36,2023-09-13,72,Fashion,In-store,Yes,Afternoon,0,38,0.37,9,No,Summer,Tablet,Credit Card
+103,42,Male,Divorced,3,71662.6,Master's,Rural,5,263.73,2023-05-10,37,Beauty,Online,Yes,Evening,10,29,0.49,8,No,Winter,Mobile,Credit Card
+104,24,Male,Divorced,1,21432.32,High School,Suburban,29,156.85,2023-09-10,17,Home,In-store,No,Evening,14,7,0.38,3,No,Spring,Desktop,Cash
+105,26,Female,Single,1,52631.32,High School,Suburban,37,277.87,2023-07-22,88,Home,Online,No,Evening,1,19,0.75,9,Yes,Summer,Desktop,Cash
+106,41,Male,Single,1,70828.87,Master's,Urban,20,206.48,2023-03-30,58,Home,Online,No,Afternoon,19,47,0.82,6,No,Fall,Mobile,Transfer
+107,18,Male,Divorced,0,68452.42,High School,Rural,49,167.31,2023-04-27,11,Home,Online,Yes,Afternoon,6,31,0.85,7,Yes,Winter,Desktop,Credit Card
+108,61,Female,Married,2,62540.92,PhD,Suburban,21,205.2,2023-09-05,83,Toys,Online,Yes,Evening,11,21,0.99,4,No,Summer,Tablet,Credit Card
+109,25,Female,Single,1,10291.21,Bachelor's,Urban,10,177.98,2023-09-15,91,Home,Online,Yes,Evening,17,6,0.81,4,Yes,Spring,Mobile,Credit Card
+110,41,Male,Single,0,60943.14,Master's,Rural,5,208.49,2023-05-26,18,Toys,Online,No,Morning,2,8,0.64,2,Yes,Summer,Tablet,Credit Card
+111,28,Female,Divorced,1,46728.44,Master's,Suburban,36,256.86,2023-05-11,91,Toys,In-store,No,Morning,6,44,0.41,5,Yes,Winter,Mobile,Transfer
+112,68,Male,Single,1,64937.86,High School,Suburban,6,193.46,2023-03-04,23,Home,In-store,Yes,Morning,10,0,0.59,8,No,Spring,Desktop,Cash
+113,34,Female,Married,0,53842.42,Master's,Rural,26,172.28,2023-01-23,58,Fashion,Online,Yes,Evening,17,28,0.14,7,Yes,Winter,Tablet,Cash
+114,25,Male,Divorced,2,49701.78,PhD,Rural,4,115.74,2023-03-05,97,Home,Online,No,Evening,11,7,0.77,7,No,Summer,Desktop,Credit Card
+115,52,Female,Single,2,59613.56,High School,Rural,39,243.44,2023-10-27,24,Home,Online,No,Evening,5,3,0.5,6,No,Fall,Desktop,Credit Card
+116,52,Male,Divorced,3,47421.3,High School,Rural,39,226.12,2023-08-09,33,Home,Online,No,Morning,4,34,0.12,3,No,Fall,Mobile,Credit Card
+117,50,Male,Single,0,49635.84,High School,Urban,35,111.35,2022-12-28,28,Fashion,In-store,Yes,Afternoon,0,2,0.16,5,No,Summer,Tablet,Transfer
+118,22,Male,Single,3,41671.64,High School,Rural,1,262.66,2022-11-05,86,Electronics,Online,Yes,Evening,11,44,0.45,1,No,Summer,Desktop,Transfer
+119,59,Female,Single,3,25918.87,PhD,Suburban,24,110.14,2023-02-26,67,Electronics,In-store,Yes,Afternoon,10,39,0.63,7,Yes,Summer,Mobile,Cash
+120,56,Male,Married,3,58517.8,High School,Suburban,36,277.19,2023-09-08,78,Toys,In-store,No,Afternoon,3,6,0.52,9,No,Spring,Mobile,Credit Card
+121,58,Male,Married,2,37909.55,Master's,Urban,6,251.59,2023-05-24,61,Toys,Online,No,Afternoon,17,26,0.66,1,Yes,Winter,Mobile,Credit Card
+122,45,Female,Divorced,0,46988.12,PhD,Suburban,41,231.47,2023-03-20,12,Fashion,Online,Yes,Morning,3,0,0.53,2,Yes,Winter,Desktop,Credit Card
+123,24,Female,Single,3,54304.61,Bachelor's,Suburban,46,171.73,2023-10-17,94,Beauty,In-store,Yes,Afternoon,16,26,0.7,3,Yes,Winter,Mobile,Credit Card
+124,26,Male,Single,0,18721.74,Bachelor's,Rural,44,243.18,2023-03-22,66,Electronics,In-store,No,Evening,1,15,0.3,3,Yes,Summer,Tablet,Transfer
+125,25,Male,Married,0,22079.77,Master's,Suburban,31,280.73,2023-09-01,33,Toys,Online,Yes,Morning,1,37,0.2,8,Yes,Winter,Tablet,Cash
+126,29,Female,Single,2,45503.92,Master's,Urban,20,244.43,2023-07-02,78,Electronics,Online,No,Evening,11,6,0.64,7,Yes,Summer,Desktop,Cash
+127,51,Female,Married,3,56818.45,PhD,Rural,24,149.73,2023-01-28,21,Fashion,Online,No,Evening,5,43,0.54,6,Yes,Spring,Tablet,Transfer
+128,50,Female,Single,3,61160.57,Bachelor's,Rural,25,220.06,2023-09-16,70,Fashion,In-store,Yes,Morning,9,22,0.12,4,No,Fall,Mobile,Credit Card
+129,65,Female,Divorced,0,26130.28,Bachelor's,Urban,36,284.9,2023-01-11,10,Beauty,In-store,No,Evening,15,40,0.44,9,Yes,Summer,Desktop,Cash
+130,40,Female,Single,1,59549.47,Bachelor's,Rural,21,364.93,2023-08-31,62,Beauty,Online,Yes,Evening,13,10,0.2,1,No,Summer,Mobile,Cash
+131,41,Male,Single,2,46323.96,Bachelor's,Rural,30,184.61,2023-08-07,73,Fashion,In-store,No,Morning,6,41,0.58,2,Yes,Fall,Desktop,Transfer
+132,54,Female,Married,2,36752.64,Bachelor's,Urban,24,264.34,2023-04-05,32,Toys,In-store,No,Evening,18,32,0.46,4,Yes,Fall,Desktop,Credit Card
+133,52,Male,Single,2,40271.72,High School,Rural,44,285.09,2023-08-15,66,Electronics,Online,Yes,Afternoon,16,49,0.65,3,Yes,Spring,Mobile,Cash
+134,61,Male,Single,2,62027.86,Master's,Urban,42,139.07,2023-04-13,45,Home,Online,No,Evening,8,35,0.83,1,Yes,Winter,Tablet,Credit Card
+135,57,Male,Married,3,54110.09,High School,Urban,30,333.66,2023-01-03,73,Beauty,In-store,Yes,Afternoon,12,36,0.37,5,No,Summer,Tablet,Cash
+136,39,Female,Divorced,3,50754.6,Bachelor's,Suburban,22,120.11,2023-03-23,86,Home,In-store,Yes,Evening,4,40,0.97,7,No,Winter,Desktop,Transfer
+137,44,Male,Divorced,1,53652.44,PhD,Suburban,28,260.67,2023-03-24,94,Toys,Online,No,Morning,4,16,0.58,2,No,Summer,Mobile,Credit Card
+138,52,Male,Married,2,63921.47,PhD,Rural,7,222.9,2023-10-29,88,Beauty,Online,Yes,Morning,9,34,0.66,5,Yes,Spring,Mobile,Transfer
+139,18,Female,Married,2,48543.51,Bachelor's,Rural,35,204.17,2023-10-26,45,Home,Online,Yes,Evening,9,47,0.71,6,Yes,Fall,Desktop,Cash
+140,52,Male,Married,0,50814.78,Bachelor's,Urban,28,391.01,2023-07-31,53,Toys,Online,Yes,Morning,6,4,0.7,7,Yes,Spring,Tablet,Transfer
+141,54,Male,Married,3,67072.56,PhD,Rural,14,177.41,2023-10-24,95,Electronics,Online,Yes,Evening,14,47,0.56,1,No,Fall,Mobile,Transfer
+142,64,Female,Married,2,45026.2,High School,Urban,10,176.2,2023-03-11,53,Toys,In-store,Yes,Morning,6,31,0.49,7,Yes,Winter,Tablet,Transfer
+143,31,Male,Divorced,1,59272.11,High School,Urban,16,299.86,2023-07-16,80,Beauty,In-store,Yes,Afternoon,14,2,0.15,4,No,Winter,Tablet,Cash
+144,20,Male,Divorced,1,42444.43,Bachelor's,Rural,16,257.14,2023-05-24,75,Fashion,In-store,No,Evening,2,46,0.12,8,No,Spring,Desktop,Credit Card
+145,18,Male,Married,3,43761.99,High School,Urban,31,296.16,2023-04-06,7,Electronics,In-store,Yes,Afternoon,18,34,0.42,4,Yes,Fall,Desktop,Transfer
+146,22,Female,Single,1,48439.25,PhD,Suburban,42,208.77,2023-03-06,14,Home,Online,No,Afternoon,9,13,0.4,6,Yes,Spring,Tablet,Credit Card
+147,43,Female,Married,1,57729.09,High School,Rural,25,223.77,2022-12-05,93,Beauty,Online,No,Evening,14,47,0.45,9,No,Fall,Mobile,Cash
+148,31,Female,Single,3,67912.73,Bachelor's,Suburban,13,342.57,2022-12-03,39,Fashion,Online,Yes,Afternoon,2,30,0.22,5,No,Fall,Mobile,Credit Card
+149,56,Male,Married,2,51448.18,PhD,Rural,6,137.3,2023-09-12,84,Toys,In-store,No,Evening,5,30,0.76,4,No,Winter,Desktop,Transfer
+150,44,Male,Married,2,27502.45,High School,Urban,44,192.28,2023-10-21,6,Fashion,In-store,No,Afternoon,11,16,0.87,8,Yes,Winter,Tablet,Transfer
+151,26,Female,Divorced,1,59471.69,Master's,Rural,9,259.87,2022-11-15,28,Beauty,In-store,Yes,Evening,14,23,0.94,9,Yes,Fall,Mobile,Transfer
+152,32,Male,Single,1,86807.63,PhD,Suburban,45,185.31,2023-05-29,78,Beauty,Online,Yes,Evening,5,22,0.54,4,Yes,Fall,Mobile,Transfer
+153,32,Male,Single,2,51630.03,PhD,Urban,36,157.24,2023-08-23,42,Fashion,In-store,Yes,Morning,12,17,0.73,3,Yes,Fall,Desktop,Transfer
+154,43,Female,Divorced,3,24368.49,Master's,Rural,43,246.39,2023-05-16,26,Toys,Online,No,Evening,18,49,0.87,8,Yes,Winter,Tablet,Transfer
+155,59,Female,Divorced,1,52544.79,Master's,Rural,20,300.19,2023-02-02,30,Fashion,Online,No,Evening,2,13,0.48,5,Yes,Winter,Mobile,Cash
+156,30,Male,Divorced,0,49954.81,PhD,Rural,18,189.44,2023-08-25,47,Beauty,Online,Yes,Afternoon,7,49,0.38,2,No,Summer,Desktop,Cash
+157,68,Male,Divorced,3,48693.37,Master's,Suburban,43,187.36,2022-11-11,59,Beauty,Online,Yes,Evening,7,14,0.94,9,No,Fall,Mobile,Cash
+158,49,Male,Single,1,64181.15,Bachelor's,Suburban,21,151.42,2023-02-22,43,Home,Online,No,Morning,19,14,0.56,3,No,Summer,Mobile,Credit Card
+159,56,Female,Single,1,70674.12,Bachelor's,Rural,4,177.8,2023-09-14,95,Home,Online,No,Afternoon,14,5,0.55,2,Yes,Fall,Mobile,Credit Card
+160,66,Female,Married,0,60253.79,Bachelor's,Urban,33,281.27,2023-05-01,33,Electronics,In-store,No,Afternoon,3,26,0.26,1,No,Winter,Desktop,Cash
+161,69,Female,Married,0,48004.13,PhD,Urban,27,206.08,2022-12-16,24,Beauty,Online,No,Morning,18,14,0.2,8,Yes,Summer,Tablet,Credit Card
+162,49,Female,Divorced,2,66885.18,Master's,Suburban,7,139.63,2023-04-28,95,Home,Online,Yes,Afternoon,2,49,0.86,3,Yes,Summer,Desktop,Credit Card
+163,21,Male,Divorced,3,27592.56,Master's,Urban,6,219.68,2023-08-03,45,Fashion,In-store,No,Afternoon,12,35,0.65,7,No,Spring,Tablet,Transfer
+164,47,Female,Divorced,3,39259.16,High School,Suburban,15,278.84,2022-12-04,58,Toys,Online,No,Afternoon,7,7,0.39,1,Yes,Fall,Mobile,Transfer
+165,54,Female,Married,2,40930.58,High School,Rural,18,157.86,2023-06-15,24,Fashion,In-store,No,Afternoon,15,14,0.27,1,No,Winter,Tablet,Credit Card
+166,40,Female,Married,3,49535.74,Master's,Suburban,32,100.35,2022-11-09,23,Toys,In-store,No,Morning,12,2,0.6,9,No,Spring,Mobile,Credit Card
+167,56,Female,Married,3,57601.02,Master's,Suburban,11,364.31,2023-08-04,88,Home,In-store,Yes,Morning,2,46,0.63,8,Yes,Spring,Mobile,Cash
+168,62,Female,Married,3,46989.31,Master's,Rural,20,96.61,2023-01-31,70,Electronics,Online,Yes,Afternoon,15,12,0.29,3,No,Fall,Desktop,Credit Card
+169,32,Male,Married,3,36409.46,PhD,Urban,24,173.07,2023-10-13,34,Fashion,Online,No,Afternoon,8,40,0.87,6,No,Spring,Mobile,Transfer
+170,60,Male,Married,3,64622.75,Master's,Suburban,15,217.41,2022-12-25,57,Fashion,In-store,No,Morning,13,33,0.18,3,No,Fall,Desktop,Credit Card
+171,46,Female,Married,0,46468.15,High School,Suburban,48,179.57,2022-11-08,38,Fashion,Online,Yes,Morning,12,23,0.42,4,No,Spring,Tablet,Cash
+172,53,Male,Divorced,3,51531.93,PhD,Rural,7,194.38,2023-05-31,26,Toys,Online,Yes,Morning,6,39,0.71,1,Yes,Fall,Tablet,Transfer
+173,30,Female,Divorced,0,58266.02,Master's,Urban,21,243.26,2023-02-14,71,Home,In-store,No,Afternoon,14,31,0.35,5,No,Winter,Mobile,Transfer
+174,49,Female,Divorced,3,50583.16,High School,Suburban,42,20.62,2023-07-16,10,Fashion,In-store,No,Afternoon,6,31,0.84,1,No,Fall,Desktop,Transfer
+175,24,Male,Divorced,2,50649.08,PhD,Rural,26,104.98,2023-01-20,83,Fashion,Online,Yes,Evening,5,29,0.77,1,No,Fall,Mobile,Transfer
+176,68,Male,Married,1,65457.1,Master's,Suburban,44,203.32,2023-09-03,31,Electronics,In-store,Yes,Morning,1,48,0.81,7,Yes,Summer,Desktop,Credit Card
+177,39,Female,Single,0,52270.54,Master's,Rural,14,169.68,2023-06-29,14,Electronics,In-store,Yes,Afternoon,8,12,0.21,6,No,Winter,Desktop,Cash
+178,45,Female,Married,3,62941.95,Master's,Urban,37,209.71,2022-11-12,77,Home,In-store,Yes,Morning,16,0,0.23,2,Yes,Winter,Desktop,Credit Card
+179,19,Female,Single,2,58170.01,PhD,Urban,21,217.07,2023-02-01,52,Home,Online,Yes,Afternoon,4,33,0.36,2,No,Winter,Tablet,Credit Card
+180,59,Male,Divorced,1,80253.31,High School,Urban,18,41.31,2023-07-17,74,Beauty,Online,Yes,Morning,11,14,0.57,7,No,Spring,Desktop,Transfer
+181,62,Female,Married,0,56141.2,High School,Urban,5,295.52,2023-01-06,63,Electronics,Online,No,Afternoon,0,43,0.77,1,No,Summer,Tablet,Cash
+182,23,Female,Divorced,1,59569.6,Bachelor's,Suburban,3,162.63,2023-03-01,63,Beauty,In-store,Yes,Evening,9,13,0.85,2,Yes,Winter,Desktop,Transfer
+183,45,Female,Married,2,66524.85,Master's,Suburban,23,135.09,2022-11-30,6,Toys,Online,Yes,Evening,10,28,0.73,8,Yes,Spring,Tablet,Credit Card
+184,45,Male,Divorced,0,50954.27,Bachelor's,Urban,26,215.63,2023-02-27,33,Beauty,In-store,Yes,Morning,15,33,0.94,6,Yes,Spring,Tablet,Credit Card
+185,61,Female,Single,1,40432.2,Bachelor's,Urban,37,208.04,2023-10-24,72,Fashion,Online,Yes,Afternoon,13,17,0.76,2,Yes,Spring,Tablet,Transfer
+186,61,Female,Single,3,42887.82,High School,Urban,24,289.75,2023-06-13,69,Beauty,Online,No,Afternoon,7,6,0.38,7,Yes,Summer,Mobile,Credit Card
+187,37,Male,Single,0,43032.4,PhD,Suburban,49,220.39,2022-11-04,87,Home,In-store,No,Morning,16,28,0.34,4,Yes,Spring,Desktop,Credit Card
+188,47,Female,Married,1,35745.04,PhD,Urban,19,286.86,2023-10-24,30,Toys,Online,Yes,Afternoon,17,30,0.73,2,No,Summer,Mobile,Transfer
+189,28,Female,Single,2,54767.08,High School,Urban,25,129.64,2022-11-14,93,Fashion,In-store,No,Morning,11,24,0.27,6,Yes,Fall,Desktop,Credit Card
+190,45,Male,Married,2,40557.25,PhD,Urban,21,210.64,2023-07-30,14,Beauty,Online,No,Afternoon,16,37,0.18,9,No,Spring,Desktop,Cash
+191,42,Female,Single,0,52922.79,Bachelor's,Rural,12,116.39,2022-12-15,57,Toys,Online,No,Morning,13,13,0.58,9,Yes,Winter,Mobile,Transfer
+192,56,Male,Single,1,47619.88,Master's,Urban,41,207.33,2023-09-23,83,Toys,In-store,No,Afternoon,15,7,0.84,8,Yes,Spring,Tablet,Cash
+193,50,Male,Married,0,49375.68,High School,Rural,33,191.43,2023-08-12,63,Fashion,In-store,No,Morning,13,26,0.19,3,Yes,Fall,Desktop,Credit Card
+194,18,Female,Married,0,58340.85,Master's,Rural,4,188.2,2023-04-28,26,Beauty,In-store,No,Afternoon,8,1,0.81,3,No,Fall,Tablet,Credit Card
+195,44,Female,Single,1,41871.51,PhD,Urban,42,188.86,2023-08-09,55,Toys,Online,Yes,Evening,3,16,0.83,2,Yes,Spring,Mobile,Transfer
+196,69,Female,Married,1,59583.37,Master's,Rural,7,255.23,2023-08-05,52,Toys,Online,Yes,Afternoon,10,36,0.53,5,Yes,Fall,Tablet,Credit Card
+197,30,Female,Single,3,73509.62,PhD,Urban,22,79.45,2023-03-04,25,Electronics,Online,Yes,Morning,5,13,0.15,4,No,Summer,Desktop,Transfer
+198,58,Male,Married,1,55146.64,PhD,Suburban,33,132.52,2022-11-24,26,Toys,In-store,Yes,Evening,14,24,0.26,7,No,Summer,Desktop,Transfer
+199,20,Female,Divorced,2,38268.56,Bachelor's,Suburban,17,196.96,2023-07-31,34,Electronics,In-store,Yes,Afternoon,4,29,0.74,4,No,Spring,Desktop,Transfer
+200,56,Male,Divorced,0,40774.73,PhD,Suburban,24,111.6,2023-08-07,29,Beauty,In-store,No,Evening,10,28,0.74,9,No,Summer,Mobile,Transfer
+201,23,Female,Divorced,0,46276.06,Bachelor's,Suburban,34,203.46,2023-09-18,32,Beauty,Online,Yes,Afternoon,17,19,0.91,2,Yes,Summer,Desktop,Transfer
+202,25,Female,Divorced,2,41076.65,Bachelor's,Rural,28,196.19,2023-06-17,69,Beauty,Online,Yes,Evening,12,20,0.62,6,No,Winter,Mobile,Cash
+203,44,Female,Divorced,1,35132.3,Bachelor's,Urban,43,94.72,2023-08-19,49,Home,In-store,No,Morning,10,21,0.21,7,Yes,Spring,Tablet,Transfer
+204,26,Male,Single,2,52316.11,High School,Urban,41,91.01,2023-09-26,72,Beauty,Online,No,Afternoon,13,34,0.21,4,Yes,Fall,Desktop,Cash
+205,54,Female,Divorced,2,46682.04,High School,Urban,39,3.22,2023-07-23,11,Toys,In-store,Yes,Afternoon,17,36,0.75,6,No,Spring,Desktop,Credit Card
+206,50,Female,Divorced,3,52845.81,PhD,Suburban,22,108.45,2023-05-29,53,Fashion,Online,No,Morning,18,15,0.27,7,Yes,Summer,Desktop,Transfer
+207,68,Female,Divorced,2,67795.81,Bachelor's,Suburban,49,201.07,2023-02-19,13,Electronics,Online,No,Evening,14,49,0.4,4,No,Winter,Tablet,Credit Card
+208,59,Female,Divorced,0,46454.71,High School,Urban,17,211.71,2023-05-14,40,Home,In-store,No,Morning,8,48,0.54,8,Yes,Spring,Desktop,Transfer
+209,61,Male,Married,2,32218.7,Bachelor's,Suburban,34,215.14,2023-03-30,87,Beauty,Online,No,Morning,7,42,0.12,9,No,Spring,Mobile,Cash
+210,41,Female,Single,0,44016.61,Master's,Urban,6,141.66,2023-05-15,5,Beauty,Online,Yes,Evening,19,16,0.32,1,No,Summer,Tablet,Cash
+211,32,Male,Divorced,0,61556.38,Master's,Urban,46,198.63,2023-02-22,14,Fashion,In-store,No,Morning,0,15,0.47,7,No,Summer,Tablet,Cash
+212,49,Male,Divorced,0,60151.55,Master's,Urban,6,229.79,2022-11-06,40,Fashion,In-store,Yes,Afternoon,3,1,0.35,9,No,Spring,Tablet,Credit Card
+213,49,Male,Divorced,1,57779.59,PhD,Urban,34,104.9,2022-12-14,77,Home,Online,Yes,Afternoon,13,3,0.22,5,No,Summer,Tablet,Transfer
+214,41,Male,Single,3,40629.4,Bachelor's,Urban,1,209.25,2023-09-07,50,Electronics,In-store,No,Afternoon,1,20,0.76,2,No,Summer,Tablet,Credit Card
+215,58,Male,Married,0,61278.54,Master's,Urban,10,249.24,2023-08-02,36,Beauty,Online,No,Morning,15,38,0.83,6,Yes,Summer,Mobile,Cash
+216,69,Male,Single,0,64653.49,High School,Urban,21,163.19,2023-01-27,36,Home,In-store,No,Afternoon,2,33,0.33,7,Yes,Summer,Tablet,Credit Card
+217,66,Female,Married,1,39568.68,Master's,Suburban,5,279.67,2023-07-23,10,Toys,Online,Yes,Afternoon,7,29,0.8,2,Yes,Summer,Desktop,Cash
+218,66,Male,Divorced,0,49376.45,Master's,Urban,2,164.94,2023-05-30,52,Toys,Online,No,Afternoon,5,5,0.45,2,No,Winter,Tablet,Cash
+219,69,Male,Divorced,2,80306.03,Master's,Urban,22,135.5,2022-11-17,42,Home,In-store,No,Afternoon,15,16,0.56,1,Yes,Summer,Tablet,Cash
+220,29,Male,Single,2,38901.89,PhD,Suburban,48,241.76,2022-11-02,21,Beauty,Online,No,Afternoon,15,38,0.87,4,No,Fall,Tablet,Transfer
+221,56,Female,Single,3,24423.7,High School,Suburban,2,352.5,2023-06-13,78,Home,Online,No,Afternoon,6,24,0.77,7,Yes,Spring,Tablet,Transfer
+222,19,Female,Married,0,70743.57,Bachelor's,Suburban,10,206.4,2023-05-12,31,Beauty,In-store,No,Morning,12,4,0.82,9,Yes,Winter,Tablet,Cash
+223,20,Male,Married,1,67049.07,High School,Urban,34,247.62,2023-10-22,58,Fashion,In-store,Yes,Afternoon,12,4,0.22,3,No,Winter,Mobile,Credit Card
+224,66,Female,Single,2,43145.49,Bachelor's,Rural,16,161.85,2023-03-18,54,Home,Online,No,Afternoon,4,19,0.16,7,Yes,Summer,Mobile,Credit Card
+225,54,Male,Married,1,48305.12,PhD,Rural,48,106.88,2023-02-09,39,Beauty,In-store,No,Evening,19,15,0.9,7,Yes,Spring,Tablet,Transfer
+226,66,Male,Single,1,31625.97,PhD,Suburban,39,212.47,2023-02-26,89,Home,In-store,No,Morning,17,40,0.45,7,Yes,Fall,Mobile,Cash
+227,34,Female,Married,2,51334.28,PhD,Rural,22,224.33,2023-02-27,29,Home,Online,Yes,Morning,14,36,0.36,2,No,Summer,Desktop,Credit Card
+228,66,Male,Single,1,67488.71,PhD,Suburban,12,173.16,2023-05-30,32,Beauty,Online,No,Morning,17,39,0.75,6,Yes,Spring,Tablet,Cash
+229,19,Female,Single,2,41860.93,Bachelor's,Urban,24,247.33,2023-09-28,19,Beauty,In-store,Yes,Morning,1,8,0.85,2,No,Summer,Desktop,Credit Card
+230,19,Female,Single,1,63156.53,Master's,Rural,47,150.94,2023-06-25,8,Electronics,In-store,Yes,Afternoon,9,4,0.88,6,Yes,Summer,Desktop,Transfer
+231,45,Male,Married,2,56955.86,Bachelor's,Urban,40,132.34,2023-05-25,97,Home,In-store,No,Afternoon,12,41,0.38,3,Yes,Summer,Tablet,Cash
+232,40,Male,Married,0,58667.25,High School,Rural,38,279.55,2023-08-04,77,Toys,Online,No,Evening,17,1,0.87,2,Yes,Summer,Desktop,Cash
+233,54,Female,Married,3,42735.36,PhD,Urban,10,279.9,2023-07-31,31,Home,Online,No,Evening,14,8,0.14,6,Yes,Summer,Desktop,Credit Card
+234,49,Male,Single,2,44680.64,PhD,Rural,35,152.42,2022-12-09,30,Home,Online,Yes,Morning,11,42,0.14,2,No,Summer,Desktop,Credit Card
+235,50,Male,Married,2,22298.41,High School,Urban,49,328.91,2023-03-05,23,Beauty,Online,Yes,Evening,14,35,0.66,5,Yes,Summer,Tablet,Credit Card
+236,18,Male,Married,3,41499.96,Bachelor's,Urban,32,178.47,2022-12-13,96,Home,Online,Yes,Evening,12,21,0.16,2,No,Fall,Tablet,Cash
+237,36,Female,Single,2,67452.28,Master's,Rural,7,206.36,2023-07-07,21,Home,Online,Yes,Morning,17,21,0.39,3,No,Winter,Desktop,Transfer
+238,19,Female,Divorced,2,36060.02,Master's,Urban,21,193.65,2023-07-30,47,Toys,Online,Yes,Morning,14,21,0.71,3,Yes,Fall,Tablet,Transfer
+239,61,Male,Single,1,38295.48,High School,Urban,20,239.28,2023-05-22,45,Beauty,In-store,Yes,Evening,10,33,0.4,6,Yes,Summer,Tablet,Credit Card
+240,43,Female,Married,3,59602.85,Master's,Urban,26,220.36,2023-07-25,46,Home,In-store,No,Afternoon,18,28,0.26,6,No,Summer,Desktop,Transfer
+241,49,Female,Single,0,56041.52,Bachelor's,Rural,4,219.35,2023-07-11,54,Fashion,Online,No,Evening,2,37,0.35,3,No,Fall,Tablet,Credit Card
+242,23,Female,Divorced,2,60347.95,Bachelor's,Rural,46,123.53,2022-11-07,88,Electronics,Online,Yes,Evening,6,45,0.51,3,Yes,Fall,Mobile,Transfer
+243,49,Female,Single,3,32551.69,High School,Urban,22,73.36,2023-08-02,44,Toys,Online,No,Afternoon,13,32,0.53,1,Yes,Winter,Tablet,Cash
+244,21,Female,Married,1,88460.87,Bachelor's,Urban,15,285.66,2022-11-20,43,Home,In-store,No,Afternoon,13,17,0.8,7,Yes,Fall,Mobile,Credit Card
+245,28,Male,Divorced,0,31763.7,PhD,Rural,40,159.09,2023-04-09,27,Fashion,Online,Yes,Morning,12,6,0.78,8,Yes,Winter,Desktop,Transfer
+246,34,Male,Married,3,52313.71,High School,Rural,21,196.32,2023-10-15,56,Home,In-store,Yes,Morning,11,0,0.51,2,Yes,Summer,Tablet,Cash
+247,55,Male,Divorced,0,47620.17,Bachelor's,Urban,15,224.51,2023-01-31,51,Home,In-store,No,Evening,8,32,0.86,4,No,Spring,Desktop,Transfer
+248,41,Female,Divorced,0,32200.38,High School,Urban,22,322.18,2023-05-12,67,Beauty,In-store,Yes,Afternoon,0,0,0.2,7,Yes,Spring,Desktop,Cash
+249,22,Female,Single,0,44446.86,Master's,Urban,28,212.1,2023-07-08,73,Beauty,In-store,Yes,Morning,18,23,0.33,8,Yes,Spring,Desktop,Cash
+250,69,Male,Single,2,50349.61,Bachelor's,Suburban,14,170.39,2022-11-17,47,Beauty,In-store,No,Evening,10,3,0.85,1,No,Spring,Desktop,Transfer
+251,51,Female,Married,2,40250.4,PhD,Rural,27,160.73,2023-05-04,52,Fashion,Online,Yes,Afternoon,18,3,0.44,4,Yes,Summer,Desktop,Transfer
+252,23,Male,Single,1,64058.35,Bachelor's,Suburban,41,197.2,2023-08-02,38,Home,Online,No,Evening,17,17,0.98,6,Yes,Spring,Tablet,Cash
+253,39,Male,Single,1,47575.61,High School,Rural,40,131.8,2023-08-11,44,Electronics,In-store,No,Morning,11,26,0.52,3,No,Fall,Mobile,Cash
+254,28,Male,Divorced,3,29880.88,High School,Rural,28,202.17,2022-12-12,79,Toys,Online,No,Morning,0,42,0.81,5,Yes,Fall,Tablet,Cash
+255,65,Female,Single,1,28608.12,Bachelor's,Rural,26,196.1,2023-07-10,65,Beauty,In-store,No,Afternoon,18,31,0.46,9,No,Spring,Tablet,Credit Card
+256,33,Female,Divorced,0,59092.48,PhD,Rural,49,323.11,2023-02-17,54,Beauty,In-store,No,Evening,19,32,0.48,3,Yes,Fall,Tablet,Cash
+257,50,Male,Divorced,0,27698.44,PhD,Rural,2,193.73,2023-09-04,71,Home,Online,Yes,Afternoon,16,27,0.44,5,Yes,Winter,Tablet,Credit Card
+258,26,Male,Divorced,2,54746.39,PhD,Rural,25,55.66,2023-05-31,66,Home,Online,Yes,Morning,4,41,0.75,8,Yes,Summer,Mobile,Cash
+259,23,Male,Married,0,56669.83,High School,Rural,3,400.51,2023-07-08,62,Fashion,Online,Yes,Morning,2,40,0.59,6,No,Spring,Tablet,Credit Card
+260,33,Male,Married,3,35069.67,Bachelor's,Suburban,8,271.76,2022-11-23,37,Fashion,Online,Yes,Evening,1,35,0.95,4,No,Spring,Desktop,Cash
+261,46,Female,Married,0,63361.07,Master's,Urban,44,356.18,2023-02-08,79,Beauty,Online,No,Evening,2,5,0.33,8,No,Summer,Tablet,Cash
+262,20,Female,Divorced,0,24233.1,High School,Urban,33,113.2,2022-12-21,20,Home,In-store,No,Evening,7,15,0.19,3,No,Fall,Tablet,Cash
+263,37,Male,Married,3,54446.88,PhD,Suburban,42,183.36,2023-04-12,86,Electronics,Online,Yes,Afternoon,15,33,0.45,3,Yes,Summer,Mobile,Transfer
+264,53,Male,Married,1,49387.13,Bachelor's,Suburban,35,250.58,2023-09-21,98,Toys,Online,No,Evening,5,22,0.66,4,No,Summer,Mobile,Transfer
+265,36,Female,Single,1,48215.03,PhD,Suburban,6,240.23,2023-07-19,52,Home,Online,Yes,Evening,12,49,0.87,9,No,Fall,Desktop,Cash
+266,43,Female,Married,3,32331.55,Master's,Suburban,39,223.02,2023-04-22,14,Home,In-store,Yes,Morning,15,41,0.41,5,No,Summer,Tablet,Credit Card
+267,20,Male,Married,2,35944.67,PhD,Rural,23,35.03,2023-01-27,86,Fashion,Online,Yes,Morning,15,23,0.69,8,Yes,Fall,Tablet,Credit Card
+268,36,Male,Divorced,0,74282.03,PhD,Urban,25,71.57,2022-11-12,42,Toys,In-store,No,Evening,2,48,0.42,6,Yes,Fall,Tablet,Cash
+269,37,Male,Divorced,3,68227.33,Master's,Rural,43,313.81,2023-03-09,23,Beauty,Online,No,Evening,12,12,0.66,3,No,Summer,Desktop,Transfer
+270,49,Female,Divorced,0,61131.27,Bachelor's,Urban,19,327.15,2023-03-25,40,Home,Online,No,Morning,13,17,0.9,8,No,Winter,Mobile,Credit Card
+271,24,Female,Divorced,2,64097.72,High School,Urban,5,192.0,2023-08-25,63,Beauty,In-store,No,Evening,7,12,0.31,9,Yes,Fall,Desktop,Transfer
+272,69,Female,Divorced,0,62690.2,Bachelor's,Suburban,11,304.28,2023-04-18,67,Home,Online,Yes,Afternoon,11,48,0.46,8,No,Summer,Tablet,Credit Card
+273,58,Male,Divorced,3,45149.66,Master's,Rural,12,123.26,2023-02-18,81,Beauty,Online,No,Afternoon,7,36,0.99,4,No,Fall,Mobile,Cash
+274,50,Male,Married,0,50714.05,PhD,Suburban,10,140.42,2023-06-15,50,Toys,In-store,No,Afternoon,8,42,0.88,6,No,Winter,Mobile,Transfer
+275,57,Female,Divorced,1,27912.37,Bachelor's,Rural,8,117.33,2022-12-24,7,Fashion,Online,No,Evening,0,38,0.61,1,No,Winter,Desktop,Credit Card
+276,56,Female,Divorced,2,48654.57,High School,Urban,24,136.26,2023-06-05,78,Toys,In-store,Yes,Morning,5,41,0.56,4,Yes,Spring,Mobile,Cash
+277,35,Male,Single,2,67751.21,Master's,Suburban,28,254.2,2023-07-25,69,Electronics,In-store,Yes,Evening,18,16,0.36,8,Yes,Fall,Mobile,Cash
+278,57,Female,Married,2,40089.39,Bachelor's,Suburban,41,135.32,2023-08-17,95,Fashion,In-store,No,Evening,10,14,0.57,1,Yes,Fall,Tablet,Cash
+279,18,Female,Married,3,65347.12,High School,Urban,36,367.98,2023-01-23,12,Toys,In-store,No,Morning,10,17,0.86,3,No,Summer,Tablet,Transfer
+280,28,Male,Married,2,51373.79,Master's,Urban,37,234.51,2023-07-15,55,Electronics,In-store,No,Morning,12,22,0.72,1,No,Fall,Mobile,Transfer
+281,45,Female,Divorced,1,29219.42,High School,Urban,21,281.34,2023-04-27,85,Home,Online,No,Morning,10,29,0.36,9,Yes,Spring,Mobile,Cash
+282,42,Male,Divorced,3,33390.21,Master's,Suburban,8,236.75,2023-04-16,77,Home,Online,Yes,Afternoon,17,33,0.28,2,Yes,Winter,Desktop,Transfer
+283,67,Male,Divorced,1,63789.54,PhD,Rural,9,291.07,2023-01-02,10,Beauty,Online,No,Evening,14,3,0.34,9,Yes,Winter,Desktop,Credit Card
+284,40,Male,Single,0,58287.86,Bachelor's,Suburban,47,134.9,2022-12-09,93,Fashion,In-store,No,Morning,0,2,0.25,4,No,Spring,Mobile,Cash
+285,48,Male,Divorced,0,51526.46,High School,Rural,15,308.52,2023-05-31,43,Home,In-store,No,Evening,6,6,0.19,2,Yes,Fall,Tablet,Cash
+286,47,Male,Single,0,45889.52,Master's,Suburban,48,210.57,2023-09-22,64,Fashion,In-store,Yes,Afternoon,12,17,0.48,4,No,Fall,Mobile,Transfer
+287,59,Male,Married,0,53158.52,High School,Suburban,46,290.69,2023-06-21,32,Home,In-store,Yes,Afternoon,11,41,0.2,6,No,Spring,Mobile,Cash
+288,52,Male,Divorced,1,63204.44,High School,Urban,40,92.03,2023-06-22,58,Beauty,Online,No,Morning,17,6,0.25,7,Yes,Summer,Tablet,Credit Card
+289,24,Female,Single,3,72137.8,Bachelor's,Rural,18,213.54,2023-01-26,41,Toys,Online,No,Morning,18,39,0.59,3,Yes,Winter,Tablet,Transfer
+290,33,Male,Single,3,72855.26,PhD,Suburban,42,210.89,2022-11-04,13,Beauty,In-store,No,Evening,14,5,0.25,3,No,Spring,Desktop,Transfer
+291,43,Male,Divorced,2,55579.4,High School,Suburban,20,153.56,2023-08-09,86,Electronics,In-store,No,Morning,7,21,0.16,8,Yes,Spring,Desktop,Cash
+292,65,Female,Married,1,47421.02,Master's,Urban,6,223.48,2023-03-04,60,Home,Online,No,Evening,18,0,0.39,5,Yes,Fall,Desktop,Cash
+293,69,Female,Married,0,52193.72,Master's,Urban,12,315.47,2023-07-08,63,Electronics,In-store,Yes,Morning,9,3,0.3,4,No,Winter,Desktop,Cash
+294,66,Female,Married,1,57831.81,PhD,Rural,2,147.79,2023-07-15,89,Electronics,In-store,Yes,Evening,6,45,0.56,7,No,Fall,Tablet,Transfer
+295,19,Male,Single,2,57771.0,Master's,Suburban,7,272.14,2023-03-25,6,Fashion,In-store,Yes,Evening,17,48,0.19,7,No,Spring,Mobile,Cash
+296,18,Female,Single,2,69619.8,PhD,Rural,16,115.44,2023-09-21,65,Home,Online,No,Evening,15,49,0.78,9,No,Summer,Desktop,Credit Card
+297,65,Male,Single,1,81736.34,Master's,Suburban,3,358.21,2023-06-07,62,Electronics,Online,Yes,Evening,19,42,0.92,9,No,Winter,Desktop,Cash
+298,29,Male,Single,1,46921.18,Bachelor's,Rural,45,258.85,2023-07-12,64,Toys,In-store,Yes,Afternoon,5,28,0.77,5,Yes,Spring,Tablet,Cash
+299,22,Male,Married,1,82338.27,High School,Urban,3,329.38,2023-07-21,44,Electronics,Online,Yes,Evening,8,20,0.58,8,No,Spring,Tablet,Transfer
+300,54,Male,Divorced,3,67583.59,Bachelor's,Suburban,27,250.4,2023-09-16,40,Toys,In-store,No,Morning,12,25,0.87,1,No,Summer,Mobile,Cash
+301,49,Female,Single,0,48487.66,High School,Rural,43,229.3,2022-12-12,41,Fashion,In-store,No,Afternoon,7,13,0.73,9,No,Spring,Mobile,Transfer
+302,26,Female,Single,1,72478.47,High School,Urban,40,259.47,2023-02-03,83,Electronics,Online,Yes,Afternoon,15,8,0.11,8,Yes,Spring,Tablet,Cash
+303,58,Male,Married,1,75284.72,High School,Urban,38,189.77,2023-04-20,96,Beauty,In-store,No,Evening,12,46,0.45,6,No,Winter,Desktop,Credit Card
+304,52,Male,Divorced,1,43095.57,Bachelor's,Rural,33,78.66,2023-01-25,22,Fashion,In-store,Yes,Afternoon,12,11,0.87,3,No,Winter,Desktop,Credit Card
+305,36,Male,Divorced,2,75983.23,High School,Suburban,28,233.55,2023-01-22,67,Toys,Online,Yes,Evening,16,41,0.41,3,No,Winter,Desktop,Transfer
+306,65,Female,Married,2,66126.24,Bachelor's,Suburban,1,143.34,2023-09-22,26,Fashion,In-store,Yes,Morning,19,5,0.13,8,Yes,Fall,Mobile,Transfer
+307,33,Male,Married,3,85528.39,PhD,Urban,8,117.38,2023-04-26,15,Electronics,In-store,Yes,Evening,4,19,0.77,5,No,Summer,Desktop,Cash
+308,20,Male,Divorced,0,43639.42,Master's,Suburban,37,247.72,2023-05-21,62,Home,In-store,No,Afternoon,16,23,0.82,7,No,Winter,Desktop,Cash
+309,37,Female,Single,3,44698.6,Master's,Suburban,32,179.07,2023-10-08,61,Home,Online,No,Morning,8,26,0.24,5,No,Fall,Tablet,Credit Card
+310,41,Female,Divorced,0,19600.07,High School,Suburban,48,277.08,2023-10-08,81,Toys,In-store,No,Evening,1,37,0.58,8,Yes,Fall,Desktop,Cash
+311,50,Male,Married,2,58567.91,Bachelor's,Urban,43,140.83,2023-10-28,8,Toys,Online,No,Morning,17,7,0.27,4,Yes,Summer,Tablet,Credit Card
+312,41,Female,Single,2,55628.77,Master's,Rural,37,164.69,2022-12-13,90,Home,In-store,Yes,Morning,8,0,0.75,2,Yes,Summer,Desktop,Transfer
+313,69,Female,Single,2,41555.09,Bachelor's,Suburban,4,286.27,2023-01-15,11,Toys,In-store,No,Afternoon,5,48,0.34,3,Yes,Spring,Mobile,Cash
+314,28,Male,Married,3,48772.24,Bachelor's,Urban,30,220.99,2023-05-04,65,Fashion,In-store,Yes,Morning,10,48,0.38,8,No,Fall,Desktop,Transfer
+315,66,Female,Married,1,30331.68,High School,Urban,6,89.2,2023-02-26,58,Beauty,In-store,No,Afternoon,5,23,0.86,7,No,Winter,Desktop,Cash
+316,25,Male,Married,1,67976.67,Master's,Rural,46,219.33,2023-07-08,92,Beauty,Online,No,Morning,5,46,0.53,2,Yes,Summer,Tablet,Credit Card
+317,53,Female,Divorced,2,42654.51,High School,Suburban,19,311.09,2023-01-26,72,Fashion,Online,No,Evening,12,6,0.7,6,Yes,Fall,Tablet,Transfer
+318,55,Male,Divorced,1,96410.74,High School,Suburban,32,164.11,2023-08-24,96,Beauty,In-store,Yes,Morning,10,18,0.46,9,No,Winter,Tablet,Transfer
+319,57,Male,Single,1,47365.98,Master's,Rural,9,244.85,2022-11-15,83,Electronics,In-store,Yes,Evening,13,21,0.37,4,No,Fall,Desktop,Cash
+320,37,Male,Married,3,38605.72,Master's,Rural,12,136.3,2023-02-20,5,Fashion,In-store,Yes,Evening,1,34,0.66,9,Yes,Summer,Desktop,Transfer
+321,52,Female,Single,0,43815.3,PhD,Urban,11,189.74,2023-05-04,59,Toys,In-store,Yes,Morning,7,29,0.24,2,Yes,Spring,Mobile,Credit Card
+322,65,Male,Single,2,28820.59,PhD,Urban,46,281.74,2022-12-18,7,Fashion,In-store,No,Evening,2,28,0.44,2,Yes,Fall,Desktop,Transfer
+323,42,Female,Single,2,57234.08,Bachelor's,Rural,16,216.44,2023-05-16,82,Home,In-store,Yes,Morning,2,21,0.29,9,Yes,Winter,Mobile,Transfer
+324,52,Male,Single,3,43701.5,Master's,Suburban,1,296.7,2022-12-23,42,Toys,In-store,Yes,Morning,0,10,0.73,7,No,Summer,Tablet,Cash
+325,42,Male,Married,3,66968.79,PhD,Urban,45,231.9,2023-02-25,5,Home,In-store,No,Evening,18,19,0.95,7,Yes,Spring,Tablet,Transfer
+326,46,Female,Single,1,45878.79,Bachelor's,Urban,21,366.41,2023-04-27,42,Toys,Online,No,Evening,17,28,1.0,1,Yes,Winter,Tablet,Cash
+327,35,Male,Married,2,70766.63,Bachelor's,Suburban,30,82.63,2023-09-08,89,Beauty,Online,Yes,Afternoon,16,40,0.51,6,No,Winter,Mobile,Cash
+328,63,Male,Married,0,61361.84,Bachelor's,Urban,13,183.71,2022-12-10,33,Fashion,Online,No,Evening,19,41,0.33,7,No,Winter,Desktop,Transfer
+329,35,Female,Divorced,3,50428.95,PhD,Suburban,34,118.66,2022-11-09,9,Electronics,In-store,Yes,Afternoon,12,33,0.5,6,No,Fall,Tablet,Credit Card
+330,19,Male,Married,0,73703.49,Master's,Suburban,4,123.78,2022-12-23,78,Toys,In-store,No,Evening,2,0,0.86,6,No,Summer,Desktop,Cash
+331,52,Male,Divorced,0,64284.4,High School,Suburban,28,124.46,2023-06-16,96,Toys,In-store,Yes,Morning,0,30,0.29,2,No,Winter,Desktop,Transfer
+332,33,Male,Married,2,94193.19,Bachelor's,Rural,38,212.58,2023-05-17,25,Home,Online,Yes,Evening,3,29,0.96,6,Yes,Fall,Tablet,Cash
+333,58,Male,Married,2,43858.17,PhD,Rural,31,216.97,2023-07-21,75,Beauty,In-store,Yes,Morning,12,47,0.41,4,Yes,Summer,Mobile,Credit Card
+334,53,Female,Married,3,51149.24,PhD,Rural,27,232.06,2023-08-08,71,Home,Online,Yes,Morning,16,17,0.99,9,Yes,Summer,Desktop,Credit Card
+335,50,Female,Divorced,2,73530.64,High School,Suburban,5,115.77,2022-12-19,51,Home,In-store,Yes,Morning,10,16,0.85,1,No,Fall,Tablet,Cash
+336,21,Male,Divorced,2,26846.93,High School,Suburban,25,175.68,2023-04-03,88,Beauty,Online,No,Afternoon,1,37,0.83,8,Yes,Fall,Desktop,Credit Card
+337,50,Female,Single,2,69754.15,PhD,Rural,3,127.68,2023-10-29,87,Electronics,Online,Yes,Evening,15,13,0.39,5,No,Winter,Desktop,Transfer
+338,31,Male,Divorced,0,56589.54,Master's,Urban,33,270.19,2023-05-06,39,Home,Online,Yes,Morning,1,22,0.11,1,Yes,Summer,Desktop,Transfer
+339,38,Female,Divorced,3,36676.84,High School,Suburban,4,134.73,2022-11-24,72,Home,In-store,Yes,Morning,18,24,0.44,4,Yes,Spring,Desktop,Cash
+340,65,Male,Divorced,1,29554.41,PhD,Urban,25,183.97,2023-01-02,73,Toys,Online,Yes,Afternoon,18,14,0.37,1,No,Fall,Desktop,Credit Card
+341,37,Male,Divorced,0,39912.66,High School,Urban,20,242.02,2022-12-04,5,Beauty,In-store,Yes,Evening,15,45,0.13,6,No,Summer,Mobile,Transfer
+342,25,Male,Single,2,15727.71,Master's,Suburban,34,153.83,2023-09-24,72,Fashion,In-store,No,Evening,18,21,0.55,2,Yes,Summer,Mobile,Transfer
+343,24,Male,Divorced,0,42656.91,Bachelor's,Suburban,26,252.04,2023-03-07,16,Electronics,In-store,No,Afternoon,8,2,0.46,5,Yes,Winter,Tablet,Transfer
+344,20,Male,Married,2,59338.35,High School,Urban,5,319.71,2023-05-16,64,Electronics,In-store,Yes,Afternoon,0,18,0.67,7,Yes,Spring,Mobile,Cash
+345,34,Male,Married,2,42855.49,Master's,Urban,35,214.23,2022-11-23,31,Beauty,In-store,No,Evening,9,43,0.66,2,Yes,Winter,Mobile,Cash
+346,50,Female,Divorced,0,70824.69,PhD,Rural,28,267.62,2022-12-22,60,Toys,Online,Yes,Afternoon,18,33,0.21,6,Yes,Spring,Mobile,Transfer
+347,65,Male,Divorced,3,74899.21,High School,Rural,29,44.49,2022-12-30,27,Toys,In-store,No,Evening,0,34,0.98,6,No,Spring,Desktop,Transfer
+348,29,Female,Married,2,69134.67,High School,Suburban,9,167.82,2023-10-02,29,Beauty,In-store,No,Evening,1,49,0.27,5,No,Fall,Desktop,Credit Card
+349,68,Male,Married,3,53459.61,PhD,Rural,38,213.87,2023-04-25,25,Toys,In-store,Yes,Morning,15,0,0.5,5,No,Summer,Tablet,Credit Card
+350,39,Female,Single,1,15129.81,Bachelor's,Rural,6,121.03,2022-11-09,65,Electronics,In-store,No,Morning,11,20,0.54,3,No,Summer,Tablet,Credit Card
+351,39,Female,Married,2,39444.54,PhD,Rural,19,215.57,2023-10-07,67,Electronics,In-store,No,Evening,7,28,0.83,2,Yes,Summer,Tablet,Cash
+352,63,Female,Married,3,47869.42,High School,Rural,44,279.5,2023-07-12,56,Fashion,Online,Yes,Evening,17,5,0.19,7,Yes,Spring,Desktop,Transfer
+353,47,Male,Divorced,3,36591.99,PhD,Urban,11,59.03,2023-04-09,92,Beauty,Online,Yes,Evening,1,36,0.49,1,No,Summer,Mobile,Cash
+354,55,Male,Married,1,47907.42,Master's,Suburban,2,110.82,2023-04-30,29,Home,In-store,No,Evening,12,0,0.67,6,Yes,Fall,Mobile,Transfer
+355,55,Female,Single,3,74151.01,PhD,Rural,47,213.86,2023-09-15,59,Home,Online,No,Evening,5,0,0.29,6,No,Spring,Desktop,Credit Card
+356,62,Male,Married,3,25313.35,High School,Urban,44,234.53,2023-03-18,50,Fashion,Online,No,Evening,5,26,0.66,3,Yes,Spring,Tablet,Credit Card
+357,68,Female,Divorced,1,77175.38,PhD,Urban,44,255.36,2023-09-23,36,Fashion,In-store,Yes,Afternoon,8,20,0.93,2,Yes,Spring,Tablet,Credit Card
+358,25,Male,Divorced,2,63270.9,Bachelor's,Urban,9,208.32,2023-10-16,59,Toys,Online,No,Evening,15,15,1.0,2,Yes,Spring,Tablet,Credit Card
+359,44,Female,Married,3,54023.25,PhD,Rural,21,234.61,2023-10-10,9,Fashion,In-store,No,Afternoon,10,43,0.13,9,No,Fall,Desktop,Transfer
+360,44,Female,Divorced,3,39295.75,Bachelor's,Rural,24,267.76,2023-04-02,40,Fashion,Online,No,Afternoon,6,39,0.31,5,No,Summer,Tablet,Credit Card
+361,51,Male,Single,3,36890.74,Master's,Suburban,34,168.92,2022-12-26,53,Home,Online,Yes,Evening,9,25,0.38,7,No,Fall,Tablet,Transfer
+362,38,Female,Single,0,25606.73,Bachelor's,Rural,22,154.36,2023-06-05,62,Toys,Online,Yes,Evening,9,15,0.46,5,No,Summer,Desktop,Transfer
+363,47,Male,Married,1,75751.48,PhD,Rural,3,187.36,2023-03-05,43,Fashion,In-store,Yes,Afternoon,19,27,0.32,7,Yes,Fall,Mobile,Cash
+364,50,Female,Married,0,73064.17,High School,Urban,12,214.96,2023-02-02,84,Fashion,Online,Yes,Afternoon,17,0,0.28,4,Yes,Winter,Desktop,Credit Card
+365,45,Female,Married,1,28905.73,Bachelor's,Suburban,28,150.63,2023-09-03,89,Toys,Online,No,Evening,19,35,0.96,8,Yes,Winter,Desktop,Credit Card
+366,64,Male,Divorced,2,41710.58,Master's,Rural,30,170.47,2023-01-18,65,Beauty,In-store,Yes,Evening,8,9,0.93,7,Yes,Winter,Desktop,Cash
+367,50,Male,Single,2,56497.17,Bachelor's,Rural,26,229.83,2023-04-13,13,Toys,In-store,No,Afternoon,14,42,0.14,5,No,Winter,Desktop,Transfer
+368,22,Male,Single,3,45507.36,Bachelor's,Urban,48,211.83,2023-09-30,10,Home,Online,No,Afternoon,3,16,0.4,6,Yes,Spring,Mobile,Credit Card
+369,65,Female,Divorced,1,21219.88,Bachelor's,Urban,21,186.1,2023-05-23,39,Beauty,In-store,No,Afternoon,7,22,0.46,5,Yes,Spring,Tablet,Transfer
+370,36,Male,Single,2,40133.41,Master's,Rural,28,69.42,2023-02-19,43,Electronics,Online,No,Morning,8,6,0.32,7,Yes,Fall,Desktop,Cash
+371,21,Female,Married,1,79265.51,PhD,Suburban,26,199.74,2023-02-20,26,Toys,Online,Yes,Afternoon,12,43,0.67,2,No,Fall,Mobile,Transfer
+372,52,Female,Married,2,41150.32,Bachelor's,Suburban,33,127.25,2023-10-23,45,Home,In-store,Yes,Morning,8,6,0.68,5,No,Winter,Tablet,Credit Card
+373,66,Male,Married,0,47547.99,Bachelor's,Urban,21,273.73,2023-06-15,9,Beauty,In-store,Yes,Evening,3,43,0.87,3,No,Summer,Tablet,Transfer
+374,34,Male,Single,2,32822.34,High School,Urban,35,176.85,2023-10-22,46,Toys,In-store,Yes,Evening,16,14,0.77,9,Yes,Winter,Tablet,Transfer
+375,61,Female,Married,0,58816.44,Master's,Rural,34,125.28,2023-04-01,91,Fashion,Online,Yes,Afternoon,15,33,0.59,6,No,Fall,Desktop,Credit Card
+376,45,Female,Divorced,2,51727.28,Bachelor's,Urban,41,195.38,2023-02-01,85,Toys,In-store,No,Evening,14,45,0.69,3,Yes,Winter,Desktop,Credit Card
+377,47,Male,Divorced,3,38869.7,Master's,Rural,47,295.3,2022-12-12,80,Electronics,Online,Yes,Evening,2,44,0.35,7,Yes,Fall,Tablet,Transfer
+378,46,Male,Single,0,30430.17,Bachelor's,Suburban,18,247.31,2023-09-14,91,Toys,In-store,Yes,Evening,19,3,0.63,4,Yes,Winter,Tablet,Transfer
+379,63,Male,Divorced,2,71068.15,PhD,Suburban,11,216.49,2023-07-13,84,Beauty,Online,Yes,Evening,4,13,0.54,3,No,Summer,Tablet,Cash
+380,23,Male,Divorced,3,25916.85,PhD,Rural,23,100.54,2023-06-01,71,Beauty,In-store,Yes,Morning,4,13,0.22,8,No,Winter,Tablet,Credit Card
+381,52,Male,Single,0,57557.24,Bachelor's,Urban,48,321.62,2023-07-01,34,Toys,Online,No,Morning,19,15,0.32,4,Yes,Summer,Tablet,Transfer
+382,58,Female,Married,3,17691.81,PhD,Suburban,22,153.38,2022-11-09,61,Beauty,In-store,No,Afternoon,14,6,0.36,1,Yes,Summer,Tablet,Credit Card
+383,54,Female,Married,1,60608.18,Bachelor's,Urban,17,270.03,2023-07-22,90,Fashion,Online,No,Afternoon,17,31,0.93,6,No,Fall,Mobile,Cash
+384,41,Female,Married,1,64554.48,PhD,Suburban,5,175.6,2023-03-05,77,Toys,In-store,No,Afternoon,14,18,0.31,1,No,Summer,Tablet,Transfer
+385,46,Female,Single,0,66421.76,High School,Rural,44,262.81,2022-12-15,33,Fashion,In-store,No,Evening,1,1,0.36,5,No,Spring,Desktop,Transfer
+386,66,Male,Divorced,2,47581.87,High School,Rural,11,298.02,2023-04-24,41,Fashion,Online,Yes,Evening,12,9,0.43,7,Yes,Spring,Desktop,Transfer
+387,63,Male,Married,0,73760.05,High School,Rural,30,248.61,2023-03-29,91,Home,In-store,No,Morning,3,49,0.7,6,Yes,Spring,Desktop,Credit Card
+388,48,Male,Married,3,84616.88,Master's,Suburban,15,256.69,2023-09-11,17,Toys,Online,No,Morning,9,16,0.21,2,Yes,Fall,Tablet,Cash
+389,52,Female,Single,2,45175.65,Master's,Urban,27,192.62,2023-01-13,36,Beauty,Online,No,Afternoon,12,36,0.96,4,No,Spring,Desktop,Credit Card
+390,50,Female,Married,1,43234.92,High School,Urban,35,167.45,2023-08-12,50,Fashion,In-store,Yes,Morning,9,11,0.88,2,No,Fall,Mobile,Transfer
+391,69,Male,Single,2,52237.66,Master's,Urban,33,210.37,2023-08-05,27,Home,Online,Yes,Morning,8,5,0.62,1,No,Fall,Tablet,Cash
+392,38,Male,Divorced,1,42834.8,PhD,Suburban,20,174.51,2023-04-21,49,Toys,In-store,No,Morning,7,21,0.71,3,Yes,Spring,Desktop,Transfer
+393,49,Female,Single,2,40641.95,Bachelor's,Suburban,16,385.04,2023-07-20,21,Toys,In-store,Yes,Morning,2,31,0.11,3,Yes,Summer,Mobile,Transfer
+394,40,Female,Single,2,41948.92,Bachelor's,Suburban,34,125.57,2023-02-03,89,Electronics,Online,Yes,Morning,15,40,0.41,7,No,Winter,Mobile,Credit Card
+395,50,Male,Single,2,75736.34,Bachelor's,Suburban,2,275.16,2023-07-28,70,Electronics,In-store,No,Afternoon,13,19,0.82,1,Yes,Fall,Desktop,Transfer
+396,20,Male,Single,3,61578.23,High School,Suburban,35,238.79,2023-04-17,10,Fashion,Online,Yes,Afternoon,8,0,0.17,9,No,Spring,Mobile,Cash
+397,35,Female,Divorced,3,42785.81,Master's,Urban,40,217.24,2023-10-31,22,Electronics,Online,Yes,Morning,10,46,0.35,6,Yes,Fall,Desktop,Transfer
+398,42,Male,Divorced,0,13173.12,PhD,Suburban,28,310.99,2023-05-18,98,Fashion,In-store,Yes,Afternoon,2,5,0.63,4,No,Summer,Mobile,Transfer
+399,59,Male,Married,0,26833.03,PhD,Suburban,47,222.38,2023-06-28,26,Beauty,In-store,No,Evening,4,18,0.33,3,Yes,Summer,Tablet,Credit Card
+400,48,Male,Divorced,1,57551.44,High School,Urban,39,152.38,2022-12-23,37,Fashion,Online,No,Morning,9,17,0.94,3,Yes,Spring,Tablet,Cash
