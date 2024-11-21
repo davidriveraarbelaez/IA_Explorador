@@ -74,8 +74,8 @@ En esta misión, explorarás cómo construir y evaluar modelos de regresión par
 5. Entrega tus resultados junto con el código desarrollado.
 6. Asegúrate de que tu código sea claro y esté bien comentado.
 7. **Fecha de entrega: 27 de noviembre de 2024, 23:59 hrs.**
-8. **Formato de entrega: Crear un archivo ZIP con el cuaderno de Python y cualquier archivo adicional necesario (Dataset utilizado).**
-9. Sube tu proyecto al repositorio de GitHub de tu equipo y sube el enlace al formulario que suministrará el profesor.
+8. **Formato de entrega: Crear un archivo ZIP con el cuaderno de Python y cualquier archivo adicional necesario (Dataset utilizado), guárdalo en un Google Drive que tenga acceso público, esto servirá como medio de evidencia para el programa Talento Tech. Asegúrate de tener un archivo con los nombres de los integrantes de tu equipo.**
+9. Sube tu proyecto al repositorio de GitHub de tu equipo, copia y pega el enlace en el formulario que suministrará el profesor.
 
 ## Recursos Adicionales
 - Dataset de películas: [Enlace al dataset](https://github.com/davidriveraarbelaez/IA_Explorador/blob/main/Datasets/movie_metadata.csv). 
